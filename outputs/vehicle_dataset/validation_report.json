@@ -1,0 +1,53 @@
+{
+  "status": "PASS",
+  "images": 100,
+  "instances": 398,
+  "class_counts": {
+    "car": 201,
+    "truck": 197
+  },
+  "visible_area_px": {
+    "car": {
+      "min": 817,
+      "median": 3643.0,
+      "max": 16001
+    },
+    "truck": {
+      "min": 3103,
+      "median": 7895.0,
+      "max": 29109
+    }
+  },
+  "border_touching_instances": 0,
+  "split_counts": {
+    "train": 80,
+    "val": 10,
+    "test": 10
+  },
+  "scene_groups": {
+    "0": "train",
+    "1": "train",
+    "2": "train",
+    "3": "train",
+    "4": "train",
+    "5": "train",
+    "6": "train",
+    "7": "train",
+    "8": "val",
+    "9": "test"
+  },
+  "checks": [
+    "unique RGB",
+    "image and mask sizes",
+    "integer mask IDs",
+    "class and instance mapping",
+    "mask tight boxes",
+    "COCO RLE roundtrip",
+    "mask areas",
+    "YOLO coordinates",
+    "both classes per image",
+    "disjoint scene groups",
+    "export file counts"
+  ],
+  "scope": "Structural annotation validation; not real-world model accuracy or photorealism certification"
+}

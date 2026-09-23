@@ -1,0 +1,7 @@
+path: "C:/Users/erkin/Desktop/SynthData/outputs/vehicle_dataset"
+train: train.txt
+val: val.txt
+test: test.txt
+names:
+  0: car
+  1: truck

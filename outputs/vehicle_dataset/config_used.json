@@ -1,0 +1,46 @@
+{
+  "count": 100,
+  "seed": 24092026,
+  "resolution": [
+    1024,
+    576
+  ],
+  "samples": 32,
+  "output_dir": "outputs/vehicle_dataset",
+  "split_counts": {
+    "train": 80,
+    "val": 10,
+    "test": 10
+  },
+  "vehicles_per_image": [
+    3,
+    5
+  ],
+  "camera_height_m": [
+    10,
+    14
+  ],
+  "camera_distance_m": [
+    24,
+    32
+  ],
+  "focal_length_mm": [
+    30,
+    38
+  ],
+  "sun_elevation_deg": [
+    25,
+    65
+  ],
+  "min_visible_pixels": 64,
+  "assets": {
+    "car": {
+      "file": "assets/car.blend",
+      "length_m": 4.5
+    },
+    "truck": {
+      "file": "assets/road_truck.blend",
+      "length_m": 5.7
+    }
+  }
+}

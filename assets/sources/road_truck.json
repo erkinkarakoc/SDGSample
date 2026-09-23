@@ -1,0 +1,464 @@
+﻿{
+    "pk":  72128,
+    "url":  "https://www.blenderkit.com/api/v1/assets/fd86f4b0-0eb8-42a9-b93a-b75d07c999bf/",
+    "id":  "fd86f4b0-0eb8-42a9-b93a-b75d07c999bf",
+    "assetBaseId":  "f71a3c39-7279-4206-ae19-d5b861318f48",
+    "versionNumber":  1,
+    "author":  {
+                   "id":  294567,
+                   "firstName":  "Ermia",
+                   "lastName":  "J",
+                   "gravatarHash":  "821843a11a4048c38289fa163b88d10d",
+                   "avatar128":  "/avatar-redirect/d80d6ca6-b4d4-4ab0-9eb8-cc7879bc36df/128/",
+                   "avatar256":  "/avatar-redirect/d80d6ca6-b4d4-4ab0-9eb8-cc7879bc36df/256/",
+                   "avatar512":  "/avatar-redirect/d80d6ca6-b4d4-4ab0-9eb8-cc7879bc36df/512/",
+                   "aboutMe":  "i am a CG enthusiast",
+                   "aboutMeUrl":  "https://www.artstation.com/ermia",
+                   "fullName":  "Ermia J",
+                   "socialNetworks":  [
+                                          {
+                                              "socialNetwork":  {
+                                                                    "name":  "ArtStation",
+                                                                    "icon":  "\u003ci class=\"fab fa-artstation\" title=\"ArtStation\"\u003e\u003c/i\u003e\u003cspan class=\"sr-only\"\u003eArtStation\u003c/span\u003e",
+                                                                    "order":  5
+                                                                },
+                                              "url":  "https://www.artstation.com/ermia"
+                                          }
+                                      ]
+               },
+    "name":  "Pinzgauer",
+    "displayName":  "Pinzgauer",
+    "description":  "The Pinzgauer is a family of high-mobility all-terrain 4WD (4Ã—4) and 6WD (6Ã—6) military utility vehicles. The vehicle was originally developed in the late 1960s and manufactured by Steyr-Daimler-Puch of Graz, Austria, and was named after the Pinzgauer, an Austrian breed of cattle.",
+    "descriptionHtml":  "\u003cp\u003eThe Pinzgauer is a family of high-mobility all-terrain 4WD (4Ã—4) and 6WD (6Ã—6) military utility vehicles. The vehicle was originally developed in the late 1960s and manufactured by Steyr-Daimler-Puch of Graz, Austria, and was named after the Pinzgauer, an Austrian breed of cattle.\u003c/p\u003e",
+    "assetType":  "model",
+    "category":  "truck",
+    "isFree":  true,
+    "isForSale":  false,
+    "basePrice":  null,
+    "tags":  [
+                 "army",
+                 "transport",
+                 "austria",
+                 "UK",
+                 "gun",
+                 "weapon",
+                 "combat"
+             ],
+    "license":  "royalty_free",
+    "sourceAppName":  "blender",
+    "sourceAppVersion":  "3.5.1",
+    "addonVersion":  "3.1.1",
+    "created":  "2023-11-30T22:01:00.023665+01:00",
+    "lastUserInteraction":  "2023-12-15T13:06:14.105193+01:00",
+    "verificationStatus":  "validated",
+    "isPrivate":  false,
+    "files":  [
+                  {
+                      "fileType":  "blend",
+                      "id":  286047,
+                      "downloadUrl":  "https://www.blenderkit.com/api/v1/downloads/d20eef87-1fbc-4899-8941-61edb46f4f6e/",
+                      "uuid":  "d20eef87-1fbc-4899-8941-61edb46f4f6e",
+                      "created":  "2023-12-15T13:06:16.843756+01:00",
+                      "isThumbnail":  false,
+                      "modified":  "2024-11-01T16:58:59.922548+01:00",
+                      "mimeType":  null,
+                      "resolution":  null,
+                      "fileUploadSize":  187698244,
+                      "isFeatured":  false,
+                      "filename":  "assets/fd86f4b00eb842a9b93ab75d07c999bf/files/blend_6137e22a-0b2e-4c40-a54b-3cbd1d099337.blend",
+                      "flexFactor":  null
+                  },
+                  {
+                      "fileType":  "resolution_0_5K",
+                      "id":  286166,
+                      "downloadUrl":  "https://www.blenderkit.com/api/v1/downloads/d961628d-50a6-462c-a499-b280a95723c8/",
+                      "uuid":  "d961628d-50a6-462c-a499-b280a95723c8",
+                      "created":  "2023-12-15T15:25:37.361578+01:00",
+                      "isThumbnail":  false,
+                      "modified":  "2024-11-01T16:58:59.947970+01:00",
+                      "mimeType":  null,
+                      "resolution":  null,
+                      "fileUploadSize":  4264607,
+                      "isFeatured":  false,
+                      "filename":  "assets/fd86f4b00eb842a9b93ab75d07c999bf/files/resolution_0_5K_e6592498-dc67-42e3-9574-92365f3b9cb6.blend",
+                      "flexFactor":  null
+                  },
+                  {
+                      "fileType":  "resolution_1K",
+                      "id":  286165,
+                      "downloadUrl":  "https://www.blenderkit.com/api/v1/downloads/93e8dec6-e223-40aa-b7a7-45d5a33c48fd/",
+                      "uuid":  "93e8dec6-e223-40aa-b7a7-45d5a33c48fd",
+                      "created":  "2023-12-15T15:25:34.005344+01:00",
+                      "isThumbnail":  false,
+                      "modified":  "2024-11-01T16:58:59.968952+01:00",
+                      "mimeType":  null,
+                      "resolution":  null,
+                      "fileUploadSize":  6855763,
+                      "isFeatured":  false,
+                      "filename":  "assets/fd86f4b00eb842a9b93ab75d07c999bf/files/resolution_1K_ec27a927-ad18-45fb-8fa8-df693dd9afcb.blend",
+                      "flexFactor":  null
+                  },
+                  {
+                      "fileType":  "resolution_2K",
+                      "id":  286164,
+                      "downloadUrl":  "https://www.blenderkit.com/api/v1/downloads/e7a0b3e9-973a-4677-85cd-bb8a847cad9c/",
+                      "uuid":  "e7a0b3e9-973a-4677-85cd-bb8a847cad9c",
+                      "created":  "2023-12-15T15:25:26.014601+01:00",
+                      "isThumbnail":  false,
+                      "modified":  "2024-11-01T16:58:59.989934+01:00",
+                      "mimeType":  null,
+                      "resolution":  null,
+                      "fileUploadSize":  16632545,
+                      "isFeatured":  false,
+                      "filename":  "assets/fd86f4b00eb842a9b93ab75d07c999bf/files/resolution_2K_eb148e3d-1bec-43ca-8a6a-5d13ef3578c4.blend",
+                      "flexFactor":  null
+                  },
+                  {
+                      "fileType":  "resolution_4K",
+                      "id":  286163,
+                      "downloadUrl":  "https://www.blenderkit.com/api/v1/downloads/da8b1396-8bd7-40da-8c21-861d49f9bc59/",
+                      "uuid":  "da8b1396-8bd7-40da-8c21-861d49f9bc59",
+                      "created":  "2023-12-15T15:25:18.140808+01:00",
+                      "isThumbnail":  false,
+                      "modified":  "2024-11-01T16:59:00.010949+01:00",
+                      "mimeType":  null,
+                      "resolution":  null,
+                      "fileUploadSize":  55691487,
+                      "isFeatured":  false,
+                      "filename":  "assets/fd86f4b00eb842a9b93ab75d07c999bf/files/resolution_4K_3b68ef95-b3f6-439d-8383-50851b7cdb9e.blend",
+                      "flexFactor":  null
+                  },
+                  {
+                      "fileType":  "thumbnail",
+                      "id":  286052,
+                      "downloadUrl":  "https://www.blenderkit.com/api/v1/downloads/b13d1c1e-cc1b-402e-a9dd-38919c7db77a/",
+                      "uuid":  "b13d1c1e-cc1b-402e-a9dd-38919c7db77a",
+                      "fileThumbnail":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.96x96_q85_crop-%2C.png",
+                      "fileThumbnailLarge":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.1024x1024_q85_crop-%2C.png",
+                      "created":  "2023-12-15T13:13:29.260218+01:00",
+                      "isThumbnail":  true,
+                      "modified":  "2025-12-22T21:10:57.045159+01:00",
+                      "mimeType":  null,
+                      "resolution":  null,
+                      "fileUploadSize":  1846279,
+                      "width":  1920,
+                      "height":  800,
+                      "isFeatured":  false,
+                      "filename":  "assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png",
+                      "thumbnailSmallUrl":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.256x256_q85_crop-%2C.png",
+                      "thumbnailMiddleUrl":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.512x512_q85_crop-%2C.png",
+                      "thumbnailLargeUrl":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.1024x1024_q85_crop-%2C.png",
+                      "thumbnailXlargeUrl":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.2048x2048_q85_crop-%2C.png",
+                      "thumbnailSmallUrlNonsquared":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.256x256_q85.png",
+                      "thumbnailMiddleUrlNonsquared":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.512x512_q85.png",
+                      "thumbnailLargeUrlNonsquared":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.1024x1024_q85.png",
+                      "thumbnailXlargeUrlNonsquared":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.2048x2048_q85.png",
+                      "thumbnailSmallUrlWebp":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.256x256_q85_crop-%2C.png.webp?webp_generated=1766507245",
+                      "thumbnailMiddleUrlWebp":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.512x512_q85_crop-%2C.png.webp?webp_generated=1766507245",
+                      "thumbnailLargeUrlWebp":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1766507245",
+                      "thumbnailXlargeUrlWebp":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1766507245",
+                      "thumbnailSmallUrlNonsquaredWebp":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.256x256_q85.png.webp?webp_generated=1766507245",
+                      "thumbnailMiddleUrlNonsquaredWebp":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.512x512_q85.png.webp?webp_generated=1766507245",
+                      "thumbnailLargeUrlNonsquaredWebp":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.1024x1024_q85.png.webp?webp_generated=1766507245",
+                      "thumbnailXlargeUrlNonsquaredWebp":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.2048x2048_q85.png.webp?webp_generated=1766507245",
+                      "thumbnailSocialUrl":  null,
+                      "animationUrl":  null,
+                      "flexFactor":  null
+                  }
+              ],
+    "filesSize":  272988925,
+    "showMarketingLabels":  true,
+    "webpGeneratedTimestamp":  1766507245,
+    "score":  5462.5,
+    "ratingsMedian":  {
+                          "bookmarks":  1.0,
+                          "workingHours":  57.5,
+                          "quality":  10.0,
+                          "virtualPrice":  null
+                      },
+    "ratingsAverage":  {
+                           "bookmarks":  0.9736842105263158,
+                           "workingHours":  57.5,
+                           "quality":  9.5,
+                           "virtualPrice":  null
+                       },
+    "ratingsCount":  {
+                         "bookmarks":  228,
+                         "workingHours":  4,
+                         "quality":  4,
+                         "virtualPrice":  0
+                     },
+    "ratingsSum":  {
+                       "bookmarks":  222.0,
+                       "workingHours":  280.0,
+                       "quality":  38.0,
+                       "virtualPrice":  null,
+                       "score":  5462.5
+                   },
+    "pageBlocks":  null,
+    "access":  "free",
+    "accessLabel":  "Free",
+    "videoLink":  "",
+    "dictParameters":  {
+                           "sexualizedContent":  false,
+                           "joinBlenderkitDiscounts":  true,
+                           "addons":  true,
+                           "platforms":  [
+                                             "windows-x64",
+                                             "macos-arm64",
+                                             "linux-x64",
+                                             "macos-x64",
+                                             "windows-arm64"
+                                         ],
+                           "faceCount":  56208,
+                           "textureResolutionMax":  4096,
+                           "productionLevel":  "finished",
+                           "procedural":  false,
+                           "modelStyle":  "realistic",
+                           "condition":  "new",
+                           "purePbr":  true,
+                           "shaders":  [
+                                           "principled"
+                                       ],
+                           "pbrType":  "metallic",
+                           "uv":  true,
+                           "textureResolutionMin":  1190,
+                           "engines":  [
+                                           "cycles"
+                                       ],
+                           "modifiers":  [
+                                             ""
+                                         ],
+                           "materials":  [
+                                             "Wheel",
+                                             "Undercarriage",
+                                             "Interior",
+                                             "Back_Seats",
+                                             "Lights",
+                                             "Glass",
+                                             "car meter",
+                                             "Cloth",
+                                             "Body"
+                                         ],
+                           "rig":  false,
+                           "simulation":  false,
+                           "dimensionX":  2.1672,
+                           "dimensionY":  5.1166,
+                           "dimensionZ":  2.2725,
+                           "boundBoxMinX":  -0.9229,
+                           "boundBoxMinY":  -2.6689,
+                           "boundBoxMinZ":  -0.0542,
+                           "boundBoxMaxX":  1.2444,
+                           "boundBoxMaxY":  2.4477,
+                           "boundBoxMaxZ":  2.2183,
+                           "faceCountRender":  56208,
+                           "meshPolyType":  "quad_dominant",
+                           "manifold":  false,
+                           "objectCount":  27,
+                           "nodeCount":  123,
+                           "textureCount":  47,
+                           "megapixels":  330,
+                           "imageAltTextGen4v":  "Highly detailed 3D military truck model with camouflage, optimized for Blender rendering."
+                       },
+    "lastZipFileUpload":  null,
+    "lastGltfUpload":  null,
+    "lastPrxcUpload":  null,
+    "lastGltfGodotUpload":  null,
+    "lastThumbnailUpload":  "2023-12-15T12:13:29.260218+00:00",
+    "lastPhotoThumbnailUpload":  null,
+    "lastWireThumbnailUpload":  null,
+    "lastBlendUpload":  "2023-12-15T12:06:16.843756+00:00",
+    "lastAnimatedThumbnailUpload":  null,
+    "lastVideoUpload":  null,
+    "lastResolutionUpload":  "2023-12-15T14:25:37.361578+00:00",
+    "canDownload":  true,
+    "canDownloadError":  true,
+    "parameters":  [
+                       {
+                           "parameterType":  "sexualizedContent",
+                           "value":  false
+                       },
+                       {
+                           "parameterType":  "joinBlenderkitDiscounts",
+                           "value":  true
+                       },
+                       {
+                           "parameterType":  "addons",
+                           "value":  true
+                       },
+                       {
+                           "parameterType":  "platforms",
+                           "value":  [
+                                         "windows-x64",
+                                         "macos-arm64",
+                                         "linux-x64",
+                                         "macos-x64",
+                                         "windows-arm64"
+                                     ]
+                       },
+                       {
+                           "parameterType":  "faceCount",
+                           "value":  56208
+                       },
+                       {
+                           "parameterType":  "textureResolutionMax",
+                           "value":  4096
+                       },
+                       {
+                           "parameterType":  "productionLevel",
+                           "value":  "finished"
+                       },
+                       {
+                           "parameterType":  "procedural",
+                           "value":  false
+                       },
+                       {
+                           "parameterType":  "modelStyle",
+                           "value":  "realistic"
+                       },
+                       {
+                           "parameterType":  "condition",
+                           "value":  "new"
+                       },
+                       {
+                           "parameterType":  "purePbr",
+                           "value":  true
+                       },
+                       {
+                           "parameterType":  "shaders",
+                           "value":  [
+                                         "principled"
+                                     ]
+                       },
+                       {
+                           "parameterType":  "pbrType",
+                           "value":  "metallic"
+                       },
+                       {
+                           "parameterType":  "uv",
+                           "value":  true
+                       },
+                       {
+                           "parameterType":  "textureResolutionMin",
+                           "value":  1190
+                       },
+                       {
+                           "parameterType":  "engines",
+                           "value":  [
+                                         "cycles"
+                                     ]
+                       },
+                       {
+                           "parameterType":  "modifiers",
+                           "value":  [
+                                         ""
+                                     ]
+                       },
+                       {
+                           "parameterType":  "materials",
+                           "value":  [
+                                         "Wheel",
+                                         "Undercarriage",
+                                         "Interior",
+                                         "Back_Seats",
+                                         "Lights",
+                                         "Glass",
+                                         "car meter",
+                                         "Cloth",
+                                         "Body"
+                                     ]
+                       },
+                       {
+                           "parameterType":  "rig",
+                           "value":  false
+                       },
+                       {
+                           "parameterType":  "simulation",
+                           "value":  false
+                       },
+                       {
+                           "parameterType":  "dimensionX",
+                           "value":  2.1672
+                       },
+                       {
+                           "parameterType":  "dimensionY",
+                           "value":  5.1166
+                       },
+                       {
+                           "parameterType":  "dimensionZ",
+                           "value":  2.2725
+                       },
+                       {
+                           "parameterType":  "boundBoxMinX",
+                           "value":  -0.9229
+                       },
+                       {
+                           "parameterType":  "boundBoxMinY",
+                           "value":  -2.6689
+                       },
+                       {
+                           "parameterType":  "boundBoxMinZ",
+                           "value":  -0.0542
+                       },
+                       {
+                           "parameterType":  "boundBoxMaxX",
+                           "value":  1.2444
+                       },
+                       {
+                           "parameterType":  "boundBoxMaxY",
+                           "value":  2.4477
+                       },
+                       {
+                           "parameterType":  "boundBoxMaxZ",
+                           "value":  2.2183
+                       },
+                       {
+                           "parameterType":  "faceCountRender",
+                           "value":  56208
+                       },
+                       {
+                           "parameterType":  "meshPolyType",
+                           "value":  "quad_dominant"
+                       },
+                       {
+                           "parameterType":  "manifold",
+                           "value":  false
+                       },
+                       {
+                           "parameterType":  "objectCount",
+                           "value":  27
+                       },
+                       {
+                           "parameterType":  "nodeCount",
+                           "value":  123
+                       },
+                       {
+                           "parameterType":  "textureCount",
+                           "value":  47
+                       },
+                       {
+                           "parameterType":  "megapixels",
+                           "value":  330
+                       },
+                       {
+                           "parameterType":  "imageAltTextGen4v",
+                           "value":  "Highly detailed 3D military truck model with camouflage, optimized for Blender rendering."
+                       }
+                   ],
+    "thumbnailSmallUrl":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.256x256_q85_crop-%2C.png",
+    "thumbnailMiddleUrl":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.512x512_q85_crop-%2C.png",
+    "thumbnailLargeUrl":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.1024x1024_q85_crop-%2C.png",
+    "thumbnailXlargeUrl":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.2048x2048_q85_crop-%2C.png",
+    "thumbnailSmallUrlNonsquared":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.256x256_q85.png",
+    "thumbnailMiddleUrlNonsquared":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.512x512_q85.png",
+    "thumbnailLargeUrlNonsquared":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.1024x1024_q85.png",
+    "thumbnailXlargeUrlNonsquared":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.2048x2048_q85.png",
+    "thumbnailSmallUrlWebp":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.256x256_q85_crop-%2C.png.webp?webp_generated=1766507245",
+    "thumbnailMiddleUrlWebp":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.512x512_q85_crop-%2C.png.webp?webp_generated=1766507245",
+    "thumbnailLargeUrlWebp":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1766507245",
+    "thumbnailXlargeUrlWebp":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1766507245",
+    "thumbnailSmallUrlNonsquaredWebp":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.256x256_q85.png.webp?webp_generated=1766507245",
+    "thumbnailMiddleUrlNonsquaredWebp":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.512x512_q85.png.webp?webp_generated=1766507245",
+    "thumbnailLargeUrlNonsquaredWebp":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.1024x1024_q85.png.webp?webp_generated=1766507245",
+    "thumbnailXlargeUrlNonsquaredWebp":  "https://public.blenderkit.com/thumbnails/assets/fd86f4b00eb842a9b93ab75d07c999bf/files/thumbnail_b13d1c1e-cc1b-402e-a9dd-38919c7db77a.png.2048x2048_q85.png.webp?webp_generated=1766507245"
+}

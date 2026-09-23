@@ -1,0 +1,469 @@
+﻿{
+    "pk":  34824,
+    "url":  "https://www.blenderkit.com/api/v1/assets/eaaf8d9f-6cfd-45cf-a6d3-c82af219822f/",
+    "id":  "eaaf8d9f-6cfd-45cf-a6d3-c82af219822f",
+    "assetBaseId":  "13b87d90-9d7f-4b26-bcff-d782821588f4",
+    "versionNumber":  1,
+    "author":  {
+                   "id":  240576,
+                   "firstName":  "abd3d",
+                   "lastName":  "",
+                   "gravatarHash":  "98716fde125b1e01406c0e290e896420",
+                   "avatar128":  "/avatar-redirect/ace7376d-efa7-480f-976c-2086fa286e88/128/",
+                   "avatar256":  "/avatar-redirect/ace7376d-efa7-480f-976c-2086fa286e88/256/",
+                   "avatar512":  "/avatar-redirect/ace7376d-efa7-480f-976c-2086fa286e88/512/",
+                   "aboutMe":  "beginner in 3d world, 3d printing hobbyist",
+                   "aboutMeUrl":  "https://abd3d.design",
+                   "fullName":  "abd3d ",
+                   "socialNetworks":  [
+                                          {
+                                              "socialNetwork":  {
+                                                                    "name":  "YouTube",
+                                                                    "icon":  "\u003ci class=\"fab fa-youtube\" title=\"YouTube\"\u003e\u003c/i\u003e\u003cspan class=\"sr-only\"\u003eYouTube\u003c/span\u003e",
+                                                                    "order":  1
+                                                                },
+                                              "url":  "https://www.youtube.com/@abd_3d"
+                                          },
+                                          {
+                                              "socialNetwork":  {
+                                                                    "name":  "Twitter",
+                                                                    "icon":  "\u003ci class=\"fab fa-x-twitter\" title=\"Twitter\"\u003e\u003c/i\u003e\u003cspan class=\"sr-only\"\u003eTwitter\u003c/span\u003e",
+                                                                    "order":  7
+                                                                },
+                                              "url":  "https://twitter.com/abd__3d"
+                                          },
+                                          {
+                                              "socialNetwork":  {
+                                                                    "name":  "Instagram",
+                                                                    "icon":  "\u003ci class=\"fab fa-instagram\" title=\"Instagram\"\u003e\u003c/i\u003e\u003cspan class=\"sr-only\"\u003eInstagram\u003c/span\u003e",
+                                                                    "order":  3
+                                                                },
+                                              "url":  "https://www.instagram.com/abd__3d"
+                                          },
+                                          {
+                                              "socialNetwork":  {
+                                                                    "name":  "ArtStation",
+                                                                    "icon":  "\u003ci class=\"fab fa-artstation\" title=\"ArtStation\"\u003e\u003c/i\u003e\u003cspan class=\"sr-only\"\u003eArtStation\u003c/span\u003e",
+                                                                    "order":  5
+                                                                },
+                                              "url":  "https://www.artstation.com/abd3d"
+                                          }
+                                      ]
+               },
+    "name":  "Aston martin vantage",
+    "displayName":  "Aston martin vantage",
+    "description":  "aston martin vantage with rig. only seat and steering wheel as an interior of the car.",
+    "descriptionHtml":  "\u003cp\u003easton martin vantage with rig. only seat and steering wheel as an interior of the car.\u003c/p\u003e",
+    "assetType":  "model",
+    "category":  "standard",
+    "isFree":  true,
+    "isForSale":  false,
+    "basePrice":  null,
+    "tags":  [
+                 "#car",
+                 "#astonmartin"
+             ],
+    "license":  "cc_zero",
+    "sourceAppName":  "blender",
+    "sourceAppVersion":  "3.2.0",
+    "addonVersion":  "3.1.5",
+    "created":  "2022-07-07T20:34:36.737639+02:00",
+    "lastUserInteraction":  "2022-07-07T20:34:54.492871+02:00",
+    "verificationStatus":  "validated",
+    "isPrivate":  false,
+    "files":  [
+                  {
+                      "fileType":  "blend",
+                      "id":  124937,
+                      "downloadUrl":  "https://www.blenderkit.com/api/v1/downloads/b10ef5ae-7bb3-4fe5-a523-076085a3597b/",
+                      "uuid":  "b10ef5ae-7bb3-4fe5-a523-076085a3597b",
+                      "created":  "2022-07-07T20:34:52.594097+02:00",
+                      "isThumbnail":  false,
+                      "modified":  "2022-07-07T20:34:53.488179+02:00",
+                      "mimeType":  null,
+                      "resolution":  null,
+                      "fileUploadSize":  900466,
+                      "isFeatured":  false,
+                      "filename":  "assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/blend_da257df5-a712-4211-bdbf-19c7687cc0ea.blend",
+                      "flexFactor":  null
+                  },
+                  {
+                      "fileType":  "thumbnail",
+                      "id":  124936,
+                      "downloadUrl":  "https://www.blenderkit.com/api/v1/downloads/11714622-4bc8-4ec1-a1b8-b70e3863f6a9/",
+                      "uuid":  "11714622-4bc8-4ec1-a1b8-b70e3863f6a9",
+                      "fileThumbnail":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.96x96_q85_crop-%2C.jpg",
+                      "fileThumbnailLarge":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.1024x1024_q85_crop-%2C.jpg",
+                      "created":  "2022-07-07T20:34:45.220586+02:00",
+                      "isThumbnail":  true,
+                      "modified":  "2025-12-22T18:33:03.352832+01:00",
+                      "mimeType":  null,
+                      "resolution":  null,
+                      "fileUploadSize":  2011448,
+                      "width":  1920,
+                      "height":  1080,
+                      "isFeatured":  false,
+                      "filename":  "assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png",
+                      "thumbnailSmallUrl":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.256x256_q85_crop-%2C.jpg",
+                      "thumbnailMiddleUrl":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.512x512_q85_crop-%2C.jpg",
+                      "thumbnailLargeUrl":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.1024x1024_q85_crop-%2C.jpg",
+                      "thumbnailXlargeUrl":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.2048x2048_q85_crop-%2C.jpg",
+                      "thumbnailSmallUrlNonsquared":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.256x256_q85.jpg",
+                      "thumbnailMiddleUrlNonsquared":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.512x512_q85.jpg",
+                      "thumbnailLargeUrlNonsquared":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.1024x1024_q85.jpg",
+                      "thumbnailXlargeUrlNonsquared":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.2048x2048_q85.jpg",
+                      "thumbnailSmallUrlWebp":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.256x256_q85_crop-%2C.jpg.webp?webp_generated=1766457140",
+                      "thumbnailMiddleUrlWebp":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.512x512_q85_crop-%2C.jpg.webp?webp_generated=1766457140",
+                      "thumbnailLargeUrlWebp":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1766457140",
+                      "thumbnailXlargeUrlWebp":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1766457140",
+                      "thumbnailSmallUrlNonsquaredWebp":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.256x256_q85.jpg.webp?webp_generated=1766457140",
+                      "thumbnailMiddleUrlNonsquaredWebp":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.512x512_q85.jpg.webp?webp_generated=1766457140",
+                      "thumbnailLargeUrlNonsquaredWebp":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.1024x1024_q85.jpg.webp?webp_generated=1766457140",
+                      "thumbnailXlargeUrlNonsquaredWebp":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.2048x2048_q85.jpg.webp?webp_generated=1766457140",
+                      "thumbnailSocialUrl":  null,
+                      "animationUrl":  null,
+                      "flexFactor":  null
+                  }
+              ],
+    "filesSize":  2911914,
+    "showMarketingLabels":  true,
+    "webpGeneratedTimestamp":  1766457140,
+    "score":  2800.0,
+    "ratingsMedian":  {
+                          "bookmarks":  1.0,
+                          "workingHours":  40.0,
+                          "quality":  7.0,
+                          "virtualPrice":  null
+                      },
+    "ratingsAverage":  {
+                           "bookmarks":  0.9766355140186916,
+                           "workingHours":  40.0,
+                           "quality":  7.0,
+                           "virtualPrice":  null
+                       },
+    "ratingsCount":  {
+                         "bookmarks":  214,
+                         "workingHours":  3,
+                         "quality":  2,
+                         "virtualPrice":  0
+                     },
+    "ratingsSum":  {
+                       "bookmarks":  209.0,
+                       "workingHours":  92.0,
+                       "quality":  14.0,
+                       "virtualPrice":  null,
+                       "score":  2800.0
+                   },
+    "pageBlocks":  null,
+    "access":  "free",
+    "accessLabel":  "Free",
+    "videoLink":  "",
+    "dictParameters":  {
+                           "sexualizedContent":  false,
+                           "joinBlenderkitDiscounts":  true,
+                           "addons":  true,
+                           "platforms":  [
+                                             "windows-x64",
+                                             "macos-arm64",
+                                             "linux-x64",
+                                             "macos-x64",
+                                             "windows-arm64"
+                                         ],
+                           "faceCount":  17401,
+                           "productionLevel":  "finished",
+                           "procedural":  false,
+                           "modelStyle":  "realistic",
+                           "condition":  "new",
+                           "purePbr":  false,
+                           "shaders":  [
+                                           "mix shader",
+                                           "principled",
+                                           "glass",
+                                           "glossy",
+                                           "emission",
+                                           "translucent"
+                                       ],
+                           "animated":  false,
+                           "uv":  true,
+                           "engines":  [
+                                           "cycles"
+                                       ],
+                           "modifiers":  [
+                                             "subsurf",
+                                             "weighted normal",
+                                             "bevel",
+                                             "array",
+                                             "mirror",
+                                             "solidify",
+                                             "wireframe",
+                                             "displace"
+                                         ],
+                           "materials":  [
+                                             "Car_Paint",
+                                             "Procedural Tyre Material",
+                                             "chrome",
+                                             "glass_headlight",
+                                             "black_ss",
+                                             "red_plastic",
+                                             "pure_black_plastic",
+                                             "Black Plastic_trimmer",
+                                             "mirror",
+                                             "Material.004",
+                                             "Material.005",
+                                             "Material.006",
+                                             "Material.001",
+                                             "Material.002",
+                                             "Material.003",
+                                             "Material.007",
+                                             "light",
+                                             "Touched Plastic Smooth",
+                                             "red_emmisioin",
+                                             "glass_red"
+                                         ],
+                           "rig":  true,
+                           "simulation":  false,
+                           "dimensionX":  1.5397,
+                           "dimensionY":  3.1479,
+                           "dimensionZ":  0.8876,
+                           "boundBoxMinX":  -0.7699,
+                           "boundBoxMinY":  -2.5393,
+                           "boundBoxMinZ":  0.001,
+                           "boundBoxMaxX":  0.7699,
+                           "boundBoxMaxY":  0.6087,
+                           "boundBoxMaxZ":  0.8886,
+                           "faceCountRender":  95816,
+                           "meshPolyType":  "quad_dominant",
+                           "manifold":  false,
+                           "objectCount":  74,
+                           "nodeCount":  127,
+                           "textureCount":  2,
+                           "megapixels":  0,
+                           "imageCaptionInterrogator":  "a close up of a red sports car on a reflective surface, 3 d render of an aston martin, pc game with ui, aristocratic appearance, inspired by Robert Scott Lauder, sleek streamlined design, cycles engine, listing image, prototype",
+                           "imageAltTextGen3":  "\"A red Aston Martin Vantage 3D model rendered in Blender with a reflective surface. This aristocratic sports car is inspired by Robert Scott Lauder, featuring a sleek and streamlined design. Rigged with only a seat and steering wheel as its interior, this model is perfect for your Blender 3D projects.\"",
+                           "imageAltTextGen4v":  "3D model of red Aston Martin Vantage, detailed exterior, reflective surface, minimal interior, Blender compatible."
+                       },
+    "lastGltfGodotUpload":  null,
+    "lastWireThumbnailUpload":  null,
+    "lastBlendUpload":  "2022-07-07T18:34:52.594097+00:00",
+    "lastAnimatedThumbnailUpload":  null,
+    "lastPrxcUpload":  null,
+    "lastPhotoThumbnailUpload":  null,
+    "lastZipFileUpload":  null,
+    "lastResolutionUpload":  null,
+    "lastVideoUpload":  null,
+    "lastGltfUpload":  null,
+    "lastThumbnailUpload":  "2022-07-07T18:34:45.220586+00:00",
+    "canDownload":  true,
+    "canDownloadError":  true,
+    "parameters":  [
+                       {
+                           "parameterType":  "sexualizedContent",
+                           "value":  false
+                       },
+                       {
+                           "parameterType":  "joinBlenderkitDiscounts",
+                           "value":  true
+                       },
+                       {
+                           "parameterType":  "addons",
+                           "value":  true
+                       },
+                       {
+                           "parameterType":  "platforms",
+                           "value":  [
+                                         "windows-x64",
+                                         "macos-arm64",
+                                         "linux-x64",
+                                         "macos-x64",
+                                         "windows-arm64"
+                                     ]
+                       },
+                       {
+                           "parameterType":  "faceCount",
+                           "value":  17401
+                       },
+                       {
+                           "parameterType":  "productionLevel",
+                           "value":  "finished"
+                       },
+                       {
+                           "parameterType":  "procedural",
+                           "value":  false
+                       },
+                       {
+                           "parameterType":  "modelStyle",
+                           "value":  "realistic"
+                       },
+                       {
+                           "parameterType":  "condition",
+                           "value":  "new"
+                       },
+                       {
+                           "parameterType":  "purePbr",
+                           "value":  false
+                       },
+                       {
+                           "parameterType":  "shaders",
+                           "value":  [
+                                         "mix shader",
+                                         "principled",
+                                         "glass",
+                                         "glossy",
+                                         "emission",
+                                         "translucent"
+                                     ]
+                       },
+                       {
+                           "parameterType":  "animated",
+                           "value":  false
+                       },
+                       {
+                           "parameterType":  "uv",
+                           "value":  true
+                       },
+                       {
+                           "parameterType":  "engines",
+                           "value":  [
+                                         "cycles"
+                                     ]
+                       },
+                       {
+                           "parameterType":  "modifiers",
+                           "value":  [
+                                         "subsurf",
+                                         "weighted normal",
+                                         "bevel",
+                                         "array",
+                                         "mirror",
+                                         "solidify",
+                                         "wireframe",
+                                         "displace"
+                                     ]
+                       },
+                       {
+                           "parameterType":  "materials",
+                           "value":  [
+                                         "Car_Paint",
+                                         "Procedural Tyre Material",
+                                         "chrome",
+                                         "glass_headlight",
+                                         "black_ss",
+                                         "red_plastic",
+                                         "pure_black_plastic",
+                                         "Black Plastic_trimmer",
+                                         "mirror",
+                                         "Material.004",
+                                         "Material.005",
+                                         "Material.006",
+                                         "Material.001",
+                                         "Material.002",
+                                         "Material.003",
+                                         "Material.007",
+                                         "light",
+                                         "Touched Plastic Smooth",
+                                         "red_emmisioin",
+                                         "glass_red"
+                                     ]
+                       },
+                       {
+                           "parameterType":  "rig",
+                           "value":  true
+                       },
+                       {
+                           "parameterType":  "simulation",
+                           "value":  false
+                       },
+                       {
+                           "parameterType":  "dimensionX",
+                           "value":  1.5397
+                       },
+                       {
+                           "parameterType":  "dimensionY",
+                           "value":  3.1479
+                       },
+                       {
+                           "parameterType":  "dimensionZ",
+                           "value":  0.8876
+                       },
+                       {
+                           "parameterType":  "boundBoxMinX",
+                           "value":  -0.7699
+                       },
+                       {
+                           "parameterType":  "boundBoxMinY",
+                           "value":  -2.5393
+                       },
+                       {
+                           "parameterType":  "boundBoxMinZ",
+                           "value":  0.001
+                       },
+                       {
+                           "parameterType":  "boundBoxMaxX",
+                           "value":  0.7699
+                       },
+                       {
+                           "parameterType":  "boundBoxMaxY",
+                           "value":  0.6087
+                       },
+                       {
+                           "parameterType":  "boundBoxMaxZ",
+                           "value":  0.8886
+                       },
+                       {
+                           "parameterType":  "faceCountRender",
+                           "value":  95816
+                       },
+                       {
+                           "parameterType":  "meshPolyType",
+                           "value":  "quad_dominant"
+                       },
+                       {
+                           "parameterType":  "manifold",
+                           "value":  false
+                       },
+                       {
+                           "parameterType":  "objectCount",
+                           "value":  74
+                       },
+                       {
+                           "parameterType":  "nodeCount",
+                           "value":  127
+                       },
+                       {
+                           "parameterType":  "textureCount",
+                           "value":  2
+                       },
+                       {
+                           "parameterType":  "megapixels",
+                           "value":  0
+                       },
+                       {
+                           "parameterType":  "imageCaptionInterrogator",
+                           "value":  "a close up of a red sports car on a reflective surface, 3 d render of an aston martin, pc game with ui, aristocratic appearance, inspired by Robert Scott Lauder, sleek streamlined design, cycles engine, listing image, prototype"
+                       },
+                       {
+                           "parameterType":  "imageAltTextGen3",
+                           "value":  "\"A red Aston Martin Vantage 3D model rendered in Blender with a reflective surface. This aristocratic sports car is inspired by Robert Scott Lauder, featuring a sleek and streamlined design. Rigged with only a seat and steering wheel as its interior, this model is perfect for your Blender 3D projects.\""
+                       },
+                       {
+                           "parameterType":  "imageAltTextGen4v",
+                           "value":  "3D model of red Aston Martin Vantage, detailed exterior, reflective surface, minimal interior, Blender compatible."
+                       }
+                   ],
+    "thumbnailSmallUrl":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.256x256_q85_crop-%2C.jpg",
+    "thumbnailMiddleUrl":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.512x512_q85_crop-%2C.jpg",
+    "thumbnailLargeUrl":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.1024x1024_q85_crop-%2C.jpg",
+    "thumbnailXlargeUrl":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.2048x2048_q85_crop-%2C.jpg",
+    "thumbnailSmallUrlNonsquared":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.256x256_q85.jpg",
+    "thumbnailMiddleUrlNonsquared":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.512x512_q85.jpg",
+    "thumbnailLargeUrlNonsquared":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.1024x1024_q85.jpg",
+    "thumbnailXlargeUrlNonsquared":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.2048x2048_q85.jpg",
+    "thumbnailSmallUrlWebp":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.256x256_q85_crop-%2C.jpg.webp?webp_generated=1766457140",
+    "thumbnailMiddleUrlWebp":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.512x512_q85_crop-%2C.jpg.webp?webp_generated=1766457140",
+    "thumbnailLargeUrlWebp":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1766457140",
+    "thumbnailXlargeUrlWebp":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1766457140",
+    "thumbnailSmallUrlNonsquaredWebp":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.256x256_q85.jpg.webp?webp_generated=1766457140",
+    "thumbnailMiddleUrlNonsquaredWebp":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.512x512_q85.jpg.webp?webp_generated=1766457140",
+    "thumbnailLargeUrlNonsquaredWebp":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.1024x1024_q85.jpg.webp?webp_generated=1766457140",
+    "thumbnailXlargeUrlNonsquaredWebp":  "https://public.blenderkit.com/thumbnails/assets/eaaf8d9f6cfd45cfa6d3c82af219822f/files/thumbnail_1ab9d093-c598-4812-9214-c4fe8c99223b.png.2048x2048_q85.jpg.webp?webp_generated=1766457140"
+}

@@ -1,0 +1,16 @@
+{
+  "assets": [
+    {
+      "file": "car.blend",
+      "source_metadata": "sources/car.json",
+      "file_type": "blend",
+      "sha256": "29b4940ad7af82d1a1fb5ac92d9f6208cc07e53a10a3b12f9bb2192d39377b36"
+    },
+    {
+      "file": "road_truck.blend",
+      "source_metadata": "sources/road_truck.json",
+      "file_type": "resolution_1K",
+      "sha256": "6d1c7b7f11515aa03ebd81fbc2df8f204faa91345fbb2cf7626aff7e88f72641"
+    }
+  ]
+}
